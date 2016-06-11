@@ -1,1 +1,3 @@
 Hello World!
+
+https://github.com/GSoft-SharePoint/Dynamite/wiki/Git-step-by-step:-Part-2
