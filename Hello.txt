@@ -1,3 +1,7 @@
 Hello World!
 
 https://github.com/GSoft-SharePoint/Dynamite/wiki/Git-step-by-step:-Part-2
+
+Change 1
+
+Change 2
